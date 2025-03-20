@@ -1,5 +1,7 @@
 JS-recap1 ja JS-recap2 kansiot sisältävät moduulien tehtävät.
 
+Kannattaa refreshata sivu kerran, kun menee sinne.
+
 JS-recap1 links:
 
 https://users.metropolia.fi/~ottopar/Web-week1/javascript-week1/JS-recap1/Assignment1/assignment1.html
